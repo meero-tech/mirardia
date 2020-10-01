@@ -2,4 +2,6 @@
 
 Hello world
 
+ini adalah php
+
 ?>
